@@ -28,6 +28,12 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Starter by template
+
+```bash
+bun create github.com/okumaru/bun-nestjs
+```
+
 ## Installation
 
 ```bash
